@@ -1,1 +1,3 @@
-console.log('Project 5');
+document.querySelector('#insert').addEventListener('keydown', function(){
+    
+})
